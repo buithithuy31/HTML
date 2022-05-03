@@ -1785,7 +1785,7 @@ display: block
      padding-bottom:110px;
 } 
 
-.testimonial_cont p {color: #030000;}
+.testimonial_cont p {color: #000; font-family: 'Times New Roman', Times, serif;}
 #testimonial_slider .carousel-indicators {
      bottom: -50px;
 }
@@ -1829,7 +1829,7 @@ border-radius: 50px;
      color: #f2b87f;
 }
 
-.testimonial_cont h3 { color: #000; font-family: poppins;}
+.testimonial_cont h3 { color: #000; font-family: 'Times New Roman', Times, serif;}
 
 
      
